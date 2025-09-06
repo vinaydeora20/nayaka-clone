@@ -1,0 +1,54 @@
+ [
+ {
+    "info": {
+      "id": "38",
+      "name": "Giorgio Armani Power Fabric + Setting Powder - Shade 01",
+      "category": "Setting Powder",
+      "avgRating": "4.4",
+      "discount": "Bestseller",
+      "price": "6200",
+      "discountPrice": "6200",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/f/5/f5d9fe93614273517812_1.png"
+    }
+  },
+  {
+    "info": {
+      "id": "37",
+      "name": "Guerlain Ombre G Eyeshadow - 910 Undressed Brown",
+      "category": "Eyeshadow",
+      "discount": "Bestseller",
+      "avgRating": "4.2",
+      "price": "8050",
+      "discountPrice": "8050",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/d/a/da71d2dGUERL00000780_1.png"
+    }
+  },
+  {
+    "info": {
+      "id": "3",
+      "name": "LEATHER TOTE",
+          "discount": "90% OFF",
+      "category": "Bags",
+      "avgRating": "4.5",
+      "price": "16550",
+      "discountPrice": "1655",
+      "description": "",
+      "cloudinaryImageId": "https://static.zara.net/assets/public/4b72/9858/74a945ceadc8/dfdd69c9bba7/16090510624-p/16090510624-p.jpg?ts=1740066425127&w=750"
+    }
+  },
+   {
+    "info": {
+      "id": "30",
+      "name": "M.A.C MACximal Matte Nude Lipstick - [Unnamed Shade] (unknown size)",
+      "category": "Lipstick",
+     "discount": "Bestseller",
+      "avgRating": "4.4",
+      "price": "3100",
+      "discountPrice": "3100",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/7/f/7f9ea6cMACXX00002361_1.jpg"
+    }
+  }
+]

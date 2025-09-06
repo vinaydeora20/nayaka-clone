@@ -1,0 +1,123 @@
+[
+    {
+      "info": {
+        "id": "1",
+        "name": "iPhone 13 Pro",
+        "category": "Electronics",
+        "avgRating": "4.5",
+        "ratingCount": 1200,
+        "price": "₹99,999",
+        "description": "The iPhone 13 Pro features a powerful A15 Bionic chip, stunning display, and 5G capabilities.",
+        "cloudinaryImageId": "https://m.media-amazon.com/images/I/513FAMDqgXL._AC_SL1246_.jpg"
+      }
+    },
+    {
+      "info": {
+        "id": "2",
+        "name": "iPhone 12",
+        "category": "Electronics",
+        "avgRating": "4.4",
+        "ratingCount": 980,
+        "price": "₹79,999",
+        "description": "The iPhone 12 offers great performance with the A14 Bionic chip and 5G support.",
+        "cloudinaryImageId": "https://m.media-amazon.com/images/I/513FAMDqgXL._AC_SL1246_.jpg"
+      }
+    },
+    {
+      "info": {
+        "id": "3",
+        "name": "iPhone SE (2020)",
+        "category": "Electronics",
+        "avgRating": "4.2",
+        "ratingCount": 550,
+        "price": "₹39,999",
+        "description": "Compact and affordable, the iPhone SE offers great performance with the A13 Bionic chip.",
+        "cloudinaryImageId": "iphonese2020-image-id"
+      }
+    },
+    {
+      "info": {
+        "id": "4",
+        "name": "iPhone 11",
+        "category": "Electronics",
+        "avgRating": "4.3",
+        "ratingCount": 1000,
+        "price": "₹54,999",
+        "description": "The iPhone 11 features dual cameras and A13 Bionic chip for smooth performance.",
+        "cloudinaryImageId": "iphone11-image-id"
+      }
+    },
+    {
+      "info": {
+        "id": "5",
+        "name": "iPhone XR",
+        "category": "Electronics",
+        "avgRating": "4.0",
+        "ratingCount": 870,
+        "price": "₹46,999",
+        "description": "The iPhone XR features a Liquid Retina display and A12 Bionic chip.",
+        "cloudinaryImageId": "iphonexr-image-id"
+      }
+    },
+    {
+      "info": {
+        "id": "6",
+        "name": "iPhone XS Max",
+        "category": "Electronics",
+        "avgRating": "4.3",
+        "ratingCount": 950,
+        "price": "₹89,999",
+        "description": "The iPhone XS Max features a large 6.5-inch OLED display and powerful performance.",
+        "cloudinaryImageId": "iphonexsmax-image-id"
+      }
+    },
+    {
+      "info": {
+        "id": "7",
+        "name": "iPhone 8 Plus",
+        "category": "Electronics",
+        "avgRating": "4.1",
+        "ratingCount": 830,
+        "price": "₹54,999",
+        "description": "The iPhone 8 Plus features a dual-camera system and powerful A11 Bionic chip.",
+        "cloudinaryImageId": "iphone8plus-image-id"
+      }
+    },
+    {
+      "info": {
+        "id": "8",
+        "name": "iPhone 7",
+        "category": "Electronics",
+        "avgRating": "4.0",
+        "ratingCount": 620,
+        "price": "₹29,999",
+        "description": "The iPhone 7 features a powerful A10 Fusion chip and a great camera.",
+        "cloudinaryImageId": "iphone7-image-id"
+      }
+    },
+    {
+      "info": {
+        "id": "9",
+        "name": "iPhone 6s",
+        "category": "Electronics",
+        "avgRating": "3.9",
+        "ratingCount": 470,
+        "price": "₹22,999",
+        "description": "The iPhone 6s features a 12MP camera and powerful performance with the A9 chip.",
+        "cloudinaryImageId": "iphone6s-image-id"
+      }
+    },
+    {
+      "info": {
+        "id": "10",
+        "name": "iPhone 5s",
+        "category": "Electronics",
+        "avgRating": "3.7",
+        "ratingCount": 320,
+        "price": "₹15,999",
+        "description": "The iPhone 5s is a compact phone with a sleek design and Touch ID.",
+        "cloudinaryImageId": "iphone5s-image-id"
+      }
+    }
+  ]
+  

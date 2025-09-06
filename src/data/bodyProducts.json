@@ -1,0 +1,529 @@
+[
+  {
+    "info": {
+      "id": "1",
+      "name": "MINAUDIÈRE WITH GOLDEN CLASP",
+      "category": "ZARA Bags",
+      "avgRating": "4.5",
+     "price": "4950",
+    "discountPrice": "495",
+      "discount": "90% OFF",
+      "description": "",
+
+      "cloudinaryImageId": "https://static.zara.net/assets/public/2921/318b/be104200b919/79dc8ac3e05e/16665510618-e4/16665510618-e4.jpg?ts=1746791888139&w=750"
+   
+    }
+  },
+  {
+    "info": {
+      "id": "2",
+      "name": "SPLIT SUEDE MINI BOWLING BAG WITH METAL HANDLE",
+      "category": "ZARA Bags",
+      "avgRating": "4.5",
+      "price": "5950",
+      "discountPrice": "595",
+        "discount": "90% OFF",
+      "description": "",
+      "cloudinaryImageId": "https://static.zara.net/assets/public/2e04/bdfb/c58f426180ad/ed02d6630fa6/16602510718-a1/16602510718-a1.jpg?ts=1746689166229&w=750"
+    }
+  },
+  {
+    "info": {
+      "id": "3",
+      "name": "LEATHER TOTE",
+      "category": "ZARA Bags",
+      "avgRating": "4.5",
+      "price": "16550",
+      "discountPrice": "1655",
+        "discount": "90% OFF",
+      "description": "",
+      "cloudinaryImageId": "https://static.zara.net/assets/public/4b72/9858/74a945ceadc8/dfdd69c9bba7/16090510624-p/16090510624-p.jpg?ts=1740066425127&w=750"
+    }
+  },
+  {
+    "info": {
+      "id": "4",
+      "name": "GATHERED SPLIT SUEDE BUCKET BAG",
+      "category": "ZARA Bags",
+      "avgRating": "4.5",
+       "price": "22950",
+      "discountPrice": "2295",
+        "discount": "90% OFF",
+      "description": "",
+      "cloudinaryImageId": "https://static.zara.net/assets/public/1fb6/ac6e/24df4807a79d/ce129a23b8ce/16001510700-e1/16001510700-e1.jpg?ts=1735558781593&w=750"
+    }
+  },
+  {
+    "info": {
+      "id": "5",
+      "name": "LEATHER BUCKET SHOULDER BAG",
+      "category": "ZARA Bags",
+      "avgRating": "4.5",
+      "price": "13950",
+        "discount": "90% OFF",
+      "discountPrice": "1395",
+      "description": "",
+      "cloudinaryImageId": "https://static.zara.net/assets/public/37ac/acf8/2b1849619b5d/f7dba673eb71/16097510719-000-p/16097510719-000-p.jpg?ts=1745600971696&w=750"
+    }
+  },
+  {
+    "info": {
+      "id": "6",
+      "name": "SPLIT SUEDE BOWLING BAG",
+      "category": "ZARA Bags",
+      "avgRating": "4.5",
+        "price": "8550",
+      "discountPrice": "2138",
+           "discount": "75% OFF",
+      "description": "",
+      "cloudinaryImageId": "https://static.zara.net/assets/public/b7f2/e2b3/736846fba040/fe203b0fdd5a/16552610721-p/16552610721-p.jpg?ts=1745830771307&w=750"
+    }
+  },
+  {
+    "info": {
+      "id": "7",
+      "name": "SPLIT SUEDE CROSSBODY BAG WITH FRINGING",
+      "category": "ZARA Bags",
+      "avgRating": "4.5",
+      "discount": "75% OFF",
+      "price": "10950",
+      "discountPrice": "2738",
+      "description": "",
+      "cloudinaryImageId": "https://static.zara.net/assets/public/dae1/50e2/736a4b66b077/b165f4dbe3ee/16155510718-p/16155510718-p.jpg?ts=1745407911971&w=750"
+    }
+  },
+  {
+    "info": {
+      "id": "8",
+      "name": "GRAINED EFFECT LEATHER BUCKET BAG",
+      "category": "ZARA Bags",
+      "avgRating": "4.5",
+       "price": "13950",
+       "discount": "75% OFF",
+      "discountPrice": "3488",
+      "description": "",
+      "cloudinaryImageId": "https://static.zara.net/assets/public/479a/a862/f443449eaef0/b0e273d18b94/16335510721-p/16335510721-p.jpg?ts=1740146212138&w=563"
+    }
+  },
+  {
+    "info": {
+      "id": "9",
+      "name": "SPLIT SUEDE TOPSTITCHED CLUTCH",
+      "category": "ZARA Bags",
+      "avgRating": "4.5",
+      "price": "9550",
+      "discount": "Bestseller",
+      "discountPrice": "9550",
+      "description": "",
+      "cloudinaryImageId": "https://static.zara.net/assets/public/128b/115b/4cf94a86a8d4/4c96faa20eb9/16275510721-p/16275510721-p.jpg?ts=1740067066334&w=750"
+    }
+  },
+  {
+    "info": {
+      "id": "10",
+      "discount": "Bestseller",
+      "name": "SPLIT SUEDE SHOULDER BAG",
+      "category": "ZARA Bags",
+      "avgRating": "4.5",
+      "price": "7550",
+      "discountPrice": "7550",
+      "description": "",
+      "cloudinaryImageId": "https://static.zara.net/assets/public/fd19/7503/ef384958b9bd/a446a8fab09f/16060510718-000-e2/16060510718-000-e2.jpg?ts=1740562759215&w=750"
+    }
+  },
+  {
+    "info": {
+      "id": "11",
+      "name": "Gucci Flora Gorgeous Magnolia Eau De Parfum For Women (100ml)",
+      "category": "Perfume",
+      "avgRating": "4.5",
+        "price": "12850",
+      "discountPrice": "1285",
+            "discount": "90% OFF",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/0/e/0eefbb43616303470791_01.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "12",
+      "name": "Gucci Flora Orchid Eau De Parfum Giftset (60ml)",
+      "category": "Perfume",
+      "avgRating": "4.5",
+      "price": "11250",
+       "discount": "75% OFF",
+      "discountPrice": "2812",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/8/3/836d5aa3616305447685_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "13",
+      "name": "Gucci Flora Magnolia Eau De Parfum Giftset (115ml)",
+      "category": "Perfume",
+      "avgRating": "4.5",
+      "price": "14950",
+        "discount": "75% OFF",
+      "discountPrice": "3737",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/8/3/836d5aa3616305447654_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "14",
+      "name": "Bvlgari Omnia Crystalline Eau De Parfum (100ml)",
+      "category": "Perfume",
+      "avgRating": "4.5",
+      "price": "13550",
+       "discount": "90% OFF",
+      "discountPrice": "1355",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/9/c/9c07665BVL-42336_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "15",
+      "name": "Guerlain Aqua Allegoria Forte Florabloom Eau De Parfum (125ml)",
+      "category": "Perfume",
+      "avgRating": "4.5",
+    "price": "16150",
+          "discount": "90% OFF",
+      "discountPrice": "1615",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/7/2/72c39b3GUERL00001222_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "16",
+      "name": "Gucci Bamboo Eau De Parfum For Her (50ml)",
+      "category": "Perfume",
+      "avgRating": "4.5",
+     "price": "7750",
+        "discount": "90% OFF",
+      "discountPrice": "775",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/d/b/db992ab737052925073.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "17",
+      "name": "Gucci Bloom Profumo Di Fiori Eau De Parfum For Her (100ml)",
+      "category": "Perfume",
+      "avgRating": "4.5",
+     "price": "12100",
+       "discount": "75% OFF",
+      "discountPrice": "3025",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/2/8/28bad63GUCCI00000025_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "18",
+      "name": "Gucci Guilty Eau De Parfum Intense For Her (90ml)",
+      "category": "Perfume",
+      "avgRating": "4.5",
+      "price": "12450",
+       "discount": "90% OFF",
+      "discountPrice": "1245",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/2/8/28bad63GUCCI00000012_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "19",
+      "name": "Gucci Guilty Absolute Eau De Perfum For Her (50ml)",
+      "category": "Perfume",
+      "avgRating": "4.5",
+       "price": "9150",
+       "discount": "75% OFF",
+      "discountPrice": "2287",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/2/8/28bad638005610524146_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "20",
+      "name": "Gucci Guilty Black Eau De Toilette For Him (50ml)",
+      "category": "Perfume",
+      "avgRating": "4.5",
+         "price": "6400",
+        "discount": "90% OFF ",
+      "discountPrice": "640",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/2/8/28bad63NYGUC00000014_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "21",
+      "name": "Smashbox Halo Healthy Glow All-In-One Tinted Moisturizer Foundation With SPF 25 (Skin Tint) - Light Neutral (40ml)",
+      "category": "Foundation",
+      "avgRating": "4.4",
+         "price": "3650",
+      "discount": "90% OFF",
+      "discountPrice": "365",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/d/1/d1db285607710089631_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "22",
+      "name": "M.A.C Studio Fix Fluid SPF 15 Mini Soft Matte Foundation With Hyaluronic Acid - NC15 (30ml)",
+      "category": "Foundation",
+      "avgRating": "4.6",
+      "price": "3400",
+      "discount": "90% OFF",
+      "discountPrice": "340",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/7/a/7ac6ecf773602642878_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "23",
+      "name": "Charlotte Tilbury Airbrush Flawless Foundation - 4 Neutral (30ml)",
+      "category": "Foundation",
+      "avgRating": "4.7",
+   "price": "3675",
+      "discount": "90% OFF",
+      "discountPrice": "367",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/b/1/b13841c5060542725378.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "24",
+      "name": "M.A.C Studio Radiance Serum-Powered Foundation - NC20 (30ml)",
+      "category": "Foundation",
+      "avgRating": "4.5",
+       "price": "4300",
+      "discount": "75% OFF",
+      "discountPrice": "1075",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/7/9/792889e773602656691_01.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "25",
+      "name": "NARS Natural Radiant Longwear Foundation - Punjab (30ml)",
+      "category": "Foundation",
+      "avgRating": "4.6",
+     "price": "4500",
+      "discount": "75% OFF",
+      "discountPrice": "1125",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/e/0/e0b44ac607845066088_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "26",
+      "name": "M.A.C Powder Kiss Liquid Lipcolour - More The Mehr-Ier (5ml)",
+      "category": "Lipstick",
+      "avgRating": "4.5",
+ "price": "3100",
+      "discount": "90% OFF",
+      "discountPrice": "310",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/9/e/9ead29a773602567874_rv__1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "27",
+      "name": "M.A.C Powder Kiss Liquid Lipcolour - Pink Roses (5ml)",
+      "category": "Lipstick",
+      "avgRating": "4.5",
+    "price": "3100",
+      "discount": "75% OFF",
+      "discountPrice": "775",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/1/4/14fc6b6773602626793_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "28",
+      "name": "M.A.C MACximal Matte Nude Lipstick - Cool Teddy (3.5g)",
+      "category": "Lipstick",
+      "avgRating": "4.6",
+       "price": "2550",
+      "discount": "75% OFF",
+      "discountPrice": "637.5",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/7/f/7f9ea6cMACXX00002353_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "29",
+      "name": "M.A.C Powder Kiss Velvet Blur Slim Stick - Spice World (1g)",
+      "category": "Lipstick",
+      "avgRating": "4.4",
+      "price": "3100",
+      "discount": "Bestseller",
+      "discountPrice": "3100",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/6/d/6d7a138773602672578_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "30",
+      "discount": "Bestseller",
+      "name": "M.A.C MACximal Matte Nude Lipstick - [Unnamed Shade] (unknown size)",
+      "category": "Lipstick",
+      "avgRating": "4.4",
+      "price": "3100",
+      
+      "discountPrice": "3100",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/7/f/7f9ea6cMACXX00002361_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "31",
+      "name": "M.A.C Mineralize Skinfinish Highlighter - Soft & Gentle",
+      "category": "Highlighter",
+      "avgRating": "4.6",
+      "price": "4000",
+      "discountPrice": "400",
+       "discount": "90% OFF",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/4/f/4fe19a2773602338993_01.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "32",
+      "name": "MAKE UP FOR EVER Hd Skin Face Essentials Palette - Harmony 2",
+      "category": "Face Palette",
+      "avgRating": "4.4",
+      "price": "7500",
+       "discount": "90% OFF",
+      "discountPrice": "750",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/9/8/98333203548752203166_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "33",
+      "name": "Bobbi Brown Sheer Finish Pressed Powder - Warm Natural",
+      "category": "Pressed Powder",
+      "avgRating": "4.5",
+      "price": "5400",
+      "discountPrice": "540",
+       "discount": "90% OFF",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/d/1/d123951BOBBI00000565_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "34",
+      "name": "DIOR Forever Natural Velvet - 2n Neutral",
+      "category": "Foundation",
+      "avgRating": "4.7",
+      "price": "6300",
+      "discountPrice": "1575",
+      "discount": "75% OFF",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/a/a/aa8d45fDIORX00000878_2.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "35",
+      "name": "Yves Saint Laurent All Hours Hyper Finish Powder - 06",
+      "category": "Face Powder",
+      "avgRating": "4.3",
+      "price": "7600",
+      "discountPrice": "1900",
+      "discount": "75% OFF",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/e/2/e2e60923614273997461-1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "36",
+      "name": "Guerlain Parure Gold Skin Control Compact Foundation 2N",
+      "category": "Compact Foundation",
+      "avgRating": "4.6",
+      "price": "9400",
+      "discount": "75% OFF",
+      "discountPrice": "2350",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/0/f/0f0cab5GUERL00000830-new_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "37",
+      "name": "Guerlain Ombre G Eyeshadow - 910 Undressed Brown",
+      "category": "Eyeshadow",
+      "avgRating": "4.2",
+      "price": "8050",
+      "discount": "Bestseller",
+      "discountPrice": "8050",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/d/a/da71d2dGUERL00000780_1.png"
+    }
+  },
+  {
+    "info": {
+      "id": "38",
+      "discount": "Bestseller",
+      "name": "Giorgio Armani Power Fabric + Setting Powder - Shade 01",
+      "category": "Powder",
+      "avgRating": "4.4",
+      "price": "6200",
+      "discountPrice": "6200",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/f/5/f5d9fe93614273517812_1.png"
+    }
+  },
+  {
+    "info": {
+      "id": "39",
+      "discount": "90% OFF",
+      "name": "Bobbi Brown Skin Weightless Powder Foundation - Warm Natural",
+      "category": "Powder Foundation",
+      "avgRating": "4.5",
+      "price": "5900",
+      "discountPrice": "590",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/d/1/d123951716170131849_1.jpg"
+    }
+  },
+  {
+    "info": {
+      "id": "40",
+       "discount": "90% OFF",
+      "name": "LAURA MERCIER Translucent Pressed Ultra Blur Setting Powder - Translucent",
+      "category": " Powder",
+      "avgRating": "4.6",
+      "price": "4950",
+      "discountPrice": "495",
+      "description": "",
+      "cloudinaryImageId": "https://images-static.nykaa.com/media/catalog/product/c/7/c797931194250057508_1.jpg"
+    }
+  }
+
+
+
+
+]
